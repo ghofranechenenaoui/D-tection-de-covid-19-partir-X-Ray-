@@ -6,8 +6,8 @@ we have decided to focus on aspects that can address this problem or at least gi
 As a result, an application was created that could detect COVID-19 in X-ray images. 
 
 We conducted experiments to detect and classify COVID-19 using X-ray images in two different scenarios :  
-1 scenarios: Transfer Learning  
-2 scenarios: Classic Machine learning Algo ,  
+1 scenarios: Transfer Learning  (File : covid19WithDeepLearning.ipynb)
+2 scenarios: Classic Machine learning Algo (File : covid19WithML.ipynb) ,  
 We use the first layer (cnn) to extract features from images then we use a classic Machine Learning model (xgboost,svm, ...)
 
 
